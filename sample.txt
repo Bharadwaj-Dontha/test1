@@ -1,3 +1,3 @@
 This is sample file.
 
-This is random conficlting text develop branch.
+conflict remotely.
